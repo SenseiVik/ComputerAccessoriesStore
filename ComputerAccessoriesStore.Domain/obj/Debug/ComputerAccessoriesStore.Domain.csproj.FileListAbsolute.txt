@@ -1,0 +1,11 @@
+c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\bin\Debug\ComputerAccessoriesStore.Domain.dll
+c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\bin\Debug\ComputerAccessoriesStore.Domain.pdb
+c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\obj\Debug\ComputerAccessoriesStore.Domain.csprojResolveAssemblyReference.cache
+c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\obj\Debug\ComputerAccessoriesStore.Domain.dll
+c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\obj\Debug\ComputerAccessoriesStore.Domain.pdb
+c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\bin\Debug\ComputerAccessoriesStore.Domain.dll.config
+C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,24 @@
+﻿@using ComputerAccessoriesStore.WebUI.Models
+@using ComputerAccessoriesStore.WebUI.HtmlHelpers
+@using System.Security.Policy
+
+@model ProductsListViewModel
+@{
+    ViewBag.Title = "Products";
+}
+
+<h3>Products</h3>
+
+@foreach (var p in Model.Products)
+{
+    <div class="item">
+        <h3>@p.Name</h3>
+        @p.Description
+        <h4>@p.Price.ToString("c")</h4>
+    </div>
+}
+
+<div class="pager">
+    @Html.PageLinks(Model.PagingInfo, x => Url.Action("List", new { page = x }))
+</div>
+
