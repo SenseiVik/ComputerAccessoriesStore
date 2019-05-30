@@ -12,7 +12,6 @@ namespace ComputerAccessoriesStore.WebUI.Controllers
     {
         private IProductRepository repository;
 
-
         public int PageSize { get; set; }
 
         public ProductController(IProductRepository productRepository)
