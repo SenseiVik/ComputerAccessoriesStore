@@ -18,52 +18,52 @@ namespace ComputerAccessoriesStore.WebUI.Controllers
             repository = rep;
         }
 
-        public ViewResult Index(string returnUrl)
+        public ViewResult Index(Cart cart, string returnUrl)
         {
             return View(new CartIndexViewModel()
             {
-                Cart = GetCart(),
+                Cart = cart,
                 ResultUrl = returnUrl
             });
         }
         // GET: Cart
-        public RedirectToRouteResult AddToCart(int productId, string returnUri)
+        public RedirectToRouteResult AddToCart(Cart cart, int productId, string returnUri)
         {
             Product product = repository.Products
                 .FirstOrDefault(x => x.ProductID == productId);
 
             if (product != null)
             {
-                GetCart().AddItem(product, 1);
+                cart.AddItem(product, 1);
             }
 
             return RedirectToAction("Index", new { returnUri });
         }
 
-        public RedirectToRouteResult RemoveFromCart(int productId, string returnUri)
+        public RedirectToRouteResult RemoveFromCart(Cart cart, int productId, string returnUri)
         {
             Product product = repository.Products
                 .FirstOrDefault(x => x.ProductID == productId);
 
             if (product != null)
             {
-                GetCart().RemoveLine(product);
+                cart.RemoveLine(product);
             }
 
             return RedirectToAction("Index", new { returnUri });
         }
 
-        private Cart GetCart()
-        {
-            Cart cart = (Cart)Session["Cart"];
+        //private Cart GetCart()
+        //{
+        //    Cart cart = (Cart)Session["Cart"];
 
-            if (cart == null)
-            {
-                cart = new Cart();
-                Session["Cart"] = cart;
-            }
+        //    if (cart == null)
+        //    {
+        //        cart = new Cart();
+        //        Session["Cart"] = cart;
+        //    }
 
-            return cart;
-        }
+        //    return cart;
+        //}
     }
 }
