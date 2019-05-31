@@ -20,11 +20,12 @@ namespace ComputerAccessoriesStore.WebUI.Controllers
             PageSize = 4;
         }
 
-        public ViewResult List(int page = 1)
+        public ViewResult List(string category ,int page = 1)
         {
             ProductsListViewModel model = new ProductsListViewModel()
             {
                 Products = repository.Products
+                                        .Where(p => category == null || p.Category == category)
                                         .OrderBy(x => x.ProductID)
                                         .Skip((page - 1) * PageSize)
                                         .Take(PageSize),
@@ -33,8 +34,10 @@ namespace ComputerAccessoriesStore.WebUI.Controllers
                 {
                     CurrentPage = page,
                     ItemsPerPage = PageSize,
-                    TotalItems = repository.Products.Count()
-                }
+                    TotalItems = category == null ? repository.Products.Count() : repository.Products.Where(x => x.Category == category).Count()
+                },
+
+                CurrentCategory = category
             };
 
             return View(model);
