@@ -1,5 +1,6 @@
 ﻿using ComputerAccessoriesStore.Domain.Abstract;
 using ComputerAccessoriesStore.Domain.Entities;
+using ComputerAccessoriesStore.WebUI.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,6 +16,15 @@ namespace ComputerAccessoriesStore.WebUI.Controllers
         public CartController(IProductRepository rep)
         {
             repository = rep;
+        }
+
+        public ViewResult Index(string returnUrl)
+        {
+            return View(new CartIndexViewModel()
+            {
+                Cart = GetCart(),
+                ResultUrl = returnUrl
+            });
         }
         // GET: Cart
         public RedirectToRouteResult AddToCart(int productId, string returnUri)
