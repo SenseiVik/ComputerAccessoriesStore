@@ -53,6 +53,11 @@ namespace ComputerAccessoriesStore.WebUI.Controllers
             return RedirectToAction("Index", new { returnUri });
         }
 
+        public PartialViewResult Summary(Cart cart)
+        {
+            return PartialView(cart);
+        }
+
         //private Cart GetCart()
         //{
         //    Cart cart = (Cart)Session["Cart"];
