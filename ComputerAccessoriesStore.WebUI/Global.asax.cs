@@ -1,4 +1,6 @@
-﻿using ComputerAccessoriesStore.WebUI.Infrastruture;
+﻿using ComputerAccessoriesStore.Domain.Entities;
+using ComputerAccessoriesStore.WebUI.Binder;
+using ComputerAccessoriesStore.WebUI.Infrastruture;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,6 +21,7 @@ namespace ComputerAccessoriesStore.WebUI
             BundleConfig.RegisterBundles(BundleTable.Bundles);
 
             ControllerBuilder.Current.SetControllerFactory(new NinjectControllerFactory());
+            ModelBinders.Binders.Add(typeof(Cart), new CartModelBinder());
         }
     }
 }

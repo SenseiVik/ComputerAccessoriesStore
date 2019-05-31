@@ -65,7 +65,7 @@ namespace ComputerAccessoriesStore.WebUI
 
             routes.MapRoute(
                 null,
-                "{controller}/action"
+                "{controller}/{action}"
             );
         }
     }

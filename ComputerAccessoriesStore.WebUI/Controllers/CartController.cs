@@ -1,5 +1,6 @@
 ﻿using ComputerAccessoriesStore.Domain.Abstract;
 using ComputerAccessoriesStore.Domain.Entities;
+using ComputerAccessoriesStore.WebUI.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,44 +17,58 @@ namespace ComputerAccessoriesStore.WebUI.Controllers
         {
             repository = rep;
         }
+
+        public ViewResult Index(Cart cart, string returnUrl)
+        {
+            return View(new CartIndexViewModel()
+            {
+                Cart = cart,
+                ResultUrl = returnUrl
+            });
+        }
         // GET: Cart
-        public RedirectToRouteResult AddToCart(int productId, string returnUri)
+        public RedirectToRouteResult AddToCart(Cart cart, int productId, string returnUri)
         {
             Product product = repository.Products
                 .FirstOrDefault(x => x.ProductID == productId);
 
             if (product != null)
             {
-                GetCart().AddItem(product, 1);
+                cart.AddItem(product, 1);
             }
 
             return RedirectToAction("Index", new { returnUri });
         }
 
-        public RedirectToRouteResult RemoveFromCart(int productId, string returnUri)
+        public RedirectToRouteResult RemoveFromCart(Cart cart, int productId, string returnUri)
         {
             Product product = repository.Products
                 .FirstOrDefault(x => x.ProductID == productId);
 
             if (product != null)
             {
-                GetCart().RemoveLine(product);
+                cart.RemoveLine(product);
             }
 
             return RedirectToAction("Index", new { returnUri });
         }
 
-        private Cart GetCart()
+        public PartialViewResult Summary(Cart cart)
         {
-            Cart cart = (Cart)Session["Cart"];
-
-            if (cart == null)
-            {
-                cart = new Cart();
-                Session["Cart"] = cart;
-            }
-
-            return cart;
+            return PartialView(cart);
         }
+
+        //private Cart GetCart()
+        //{
+        //    Cart cart = (Cart)Session["Cart"];
+
+        //    if (cart == null)
+        //    {
+        //        cart = new Cart();
+        //        Session["Cart"] = cart;
+        //    }
+
+        //    return cart;
+        //}
     }
 }
