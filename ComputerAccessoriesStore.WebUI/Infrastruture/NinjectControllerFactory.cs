@@ -5,6 +5,7 @@ using Moq;
 using Ninject;
 using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
@@ -45,6 +46,11 @@ namespace ComputerAccessoriesStore.WebUI.Infrastruture
 
 
             ninjectKernel.Bind<IProductRepository>().To<EFProductRepository>();
+
+            EmailSettings emailSettings = new EmailSettings();
+            emailSettings.WriteAsFile = bool.Parse(ConfigurationManager.AppSettings["Email.WriteAsFile"] ?? "false");
+
+            ninjectKernel.Bind<IOrderProcessor>().To<EmailOrderProcessor>().WithConstructorArgument("settings", emailSettings);
         }
     }
 }
