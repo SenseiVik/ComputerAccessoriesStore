@@ -9,3 +9,15 @@ C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesS
 C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\bin\Debug\EntityFramework.xml
 C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\bin\Debug\ComputerAccessoriesStore.Domain.dll.config
+C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\bin\Debug\ComputerAccessoriesStore.Domain.dll
+C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\bin\Debug\ComputerAccessoriesStore.Domain.pdb
+C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\obj\Debug\ComputerAccessoriesStore.Domain.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\obj\Debug\ComputerAccessoriesStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\obj\Debug\ComputerAccessoriesStore.Domain.csproj.CopyComplete
+C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\obj\Debug\ComputerAccessoriesStore.Domain.dll
+C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\obj\Debug\ComputerAccessoriesStore.Domain.pdb
