@@ -82,6 +82,19 @@ C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesS
 C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\EntityFramework.xml
 C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\EntityFramework.SqlServer.dll
 C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\EntityFramework.SqlServer.xml
+<<<<<<< HEAD
+C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.dll
+C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Owin.dll
+C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.xml
+C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+=======
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\ApplicationInsights.config
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\csc.exe
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\csc.exe.config
@@ -168,3 +181,4 @@ C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\o
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\obj\Debug\ComputerAccessoriesStore.WebUI.csproj.CopyComplete
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\obj\Debug\ComputerAccessoriesStore.WebUI.dll
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\obj\Debug\ComputerAccessoriesStore.WebUI.pdb
+>>>>>>> 43f5d1a18b91aef798062ef7f16a76ebf6fa0d06
