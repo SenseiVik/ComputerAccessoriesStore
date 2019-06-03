@@ -16,7 +16,6 @@ C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\bin\Debug\EntityFramework.xml
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\obj\Debug\ComputerAccessoriesStore.Domain.csprojAssemblyReference.cache
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\obj\Debug\ComputerAccessoriesStore.Domain.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\obj\Debug\ComputerAccessoriesStore.Domain.csproj.CopyComplete
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\obj\Debug\ComputerAccessoriesStore.Domain.dll
