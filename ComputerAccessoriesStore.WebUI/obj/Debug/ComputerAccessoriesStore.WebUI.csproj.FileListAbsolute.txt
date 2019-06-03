@@ -82,3 +82,14 @@ C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesS
 C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\EntityFramework.xml
 C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\EntityFramework.SqlServer.dll
 C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.dll
+C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Owin.dll
+C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.xml
+C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.Security.OAuth.xml

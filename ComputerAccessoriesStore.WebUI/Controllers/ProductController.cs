@@ -1,4 +1,5 @@
 ﻿using ComputerAccessoriesStore.Domain.Abstract;
+using ComputerAccessoriesStore.Domain.Entities;
 using ComputerAccessoriesStore.WebUI.Models;
 using System;
 using System.Collections.Generic;
@@ -41,6 +42,20 @@ namespace ComputerAccessoriesStore.WebUI.Controllers
             };
 
             return View(model);
+        }
+
+        public FileContentResult GetImage(int productId)
+        {
+            Product product = repository.Products.FirstOrDefault(x => x.ProductID == productId);
+
+            if (product != null)
+            {
+                return File(product.ImageData, product.ImageMimeType);
+            }
+            else
+            {
+                return null;
+            }
         }
     }
 }

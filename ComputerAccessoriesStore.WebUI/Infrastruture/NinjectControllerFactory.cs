@@ -1,6 +1,8 @@
 ﻿using ComputerAccessoriesStore.Domain.Abstract;
 using ComputerAccessoriesStore.Domain.Concrete;
 using ComputerAccessoriesStore.Domain.Entities;
+using ComputerAccessoriesStore.WebUI.Infrastruture.Abstract;
+using ComputerAccessoriesStore.WebUI.Infrastruture.Concrete;
 using Moq;
 using Ninject;
 using System;
@@ -51,6 +53,7 @@ namespace ComputerAccessoriesStore.WebUI.Infrastruture
             emailSettings.WriteAsFile = bool.Parse(ConfigurationManager.AppSettings["Email.WriteAsFile"] ?? "false");
 
             ninjectKernel.Bind<IOrderProcessor>().To<EmailOrderProcessor>().WithConstructorArgument("settings", emailSettings);
+            ninjectKernel.Bind<IAuthProvider>().To<FormsAuthProvider>();
         }
     }
 }
