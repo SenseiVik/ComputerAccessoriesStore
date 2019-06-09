@@ -3,13 +3,9 @@ using ComputerAccessoriesStore.Domain.Concrete;
 using ComputerAccessoriesStore.Domain.Entities;
 using ComputerAccessoriesStore.WebUI.Infrastruture.Abstract;
 using ComputerAccessoriesStore.WebUI.Infrastruture.Concrete;
-using Moq;
 using Ninject;
 using System;
-using System.Collections.Generic;
 using System.Configuration;
-using System.Linq;
-using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 

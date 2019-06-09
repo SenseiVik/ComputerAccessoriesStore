@@ -200,3 +200,8 @@ div#cart a
     color: white;
     border: 1px solid black;
 }
+
+.single-line
+{
+    margin: 10px, 50px, 10px, 20px;
+}

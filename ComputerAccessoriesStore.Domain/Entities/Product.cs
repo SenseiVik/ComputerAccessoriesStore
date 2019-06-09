@@ -1,16 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations;
 using System.Web.Mvc;
 
 namespace ComputerAccessoriesStore.Domain.Entities
 {
     public class Product
     {
-        [HiddenInput(DisplayValue =false)]
+        [HiddenInput(DisplayValue = false)]
         public int ProductID { get; set; }
 
         [Required(ErrorMessage = "Please, enter a product name")]
@@ -24,6 +19,6 @@ namespace ComputerAccessoriesStore.Domain.Entities
         public decimal Price { get; set; }
 
         [Required(ErrorMessage = "Please enter a ptoduct category")]
-        public string  Category { get; set; }
+        public string Category { get; set; }
     }
 }

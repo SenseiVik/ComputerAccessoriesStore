@@ -1,9 +1,5 @@
 ﻿using ComputerAccessoriesStore.Domain.Abstract;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using ComputerAccessoriesStore.Domain.Entities;
 using System.Net.Mail;
 using System.Net;
@@ -29,7 +25,7 @@ namespace ComputerAccessoriesStore.Domain.Concrete
                 smtpClient.Port = emailSettings.ServerPort;
                 smtpClient.UseDefaultCredentials = false;
                 smtpClient.Credentials = new NetworkCredential(emailSettings.Username, emailSettings.Password);
-                
+
                 if (emailSettings.WriteAsFile)
                 {
                     smtpClient.DeliveryMethod = SmtpDeliveryMethod.SpecifiedPickupDirectory;

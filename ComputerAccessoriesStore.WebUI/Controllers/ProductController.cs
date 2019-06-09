@@ -1,10 +1,6 @@
 ﻿using ComputerAccessoriesStore.Domain.Abstract;
-using ComputerAccessoriesStore.Domain.Entities;
 using ComputerAccessoriesStore.WebUI.Models;
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Web;
 using System.Web.Mvc;
 
 namespace ComputerAccessoriesStore.WebUI.Controllers
@@ -21,7 +17,7 @@ namespace ComputerAccessoriesStore.WebUI.Controllers
             PageSize = 4;
         }
 
-        public ViewResult List(string category ,int page = 1)
+        public ViewResult List(string category, int page = 1)
         {
             ProductsListViewModel model = new ProductsListViewModel()
             {
