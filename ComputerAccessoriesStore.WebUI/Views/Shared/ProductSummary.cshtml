@@ -5,7 +5,7 @@
 
     @Model.Description
 
-    @using (Html.BeginForm("AddToCart", "Cart"))
+    @using (Html.BeginForm("AddToCart", "Cart", new { returnUrl = Request.Url.PathAndQuery }))
     {
         @Html.HiddenFor(x => x.ProductID);
         @Html.Hidden("returnUrl", Request.Url.PathAndQuery);

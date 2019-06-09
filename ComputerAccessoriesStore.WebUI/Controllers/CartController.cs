@@ -29,7 +29,7 @@ namespace ComputerAccessoriesStore.WebUI.Controllers
             });
         }
         // GET: Cart
-        public RedirectToRouteResult AddToCart(Cart cart, int productId, string returnUri)
+        public RedirectToRouteResult AddToCart(Cart cart, int productId, string returnUrl)
         {
             Product product = repository.Products
                 .FirstOrDefault(x => x.ProductID == productId);
@@ -39,7 +39,7 @@ namespace ComputerAccessoriesStore.WebUI.Controllers
                 cart.AddItem(product, 1);
             }
 
-            return RedirectToAction("Index", new { returnUri });
+            return RedirectToAction("Index", new { returnUrl });
         }
 
         public RedirectToRouteResult RemoveFromCart(Cart cart, int productId, string returnUri)
