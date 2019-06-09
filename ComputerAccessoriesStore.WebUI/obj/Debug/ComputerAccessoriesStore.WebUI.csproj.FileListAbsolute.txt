@@ -1,100 +1,3 @@
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\ApplicationInsights.config
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\csc.exe
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\csc.exe.config
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\csc.rsp
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\csi.exe
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\csi.rsp
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\System.AppContext.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\System.IO.FileSystem.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\vbc.exe
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\vbc.exe.config
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\vbc.rsp
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\VBCSCompiler.exe
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\ComputerAccessoriesStore.WebUI.dll.config
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\ComputerAccessoriesStore.WebUI.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\ComputerAccessoriesStore.WebUI.pdb
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Antlr3.Runtime.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.AI.Web.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.ApplicationInsights.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Newtonsoft.Json.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\System.Web.Helpers.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\System.Web.Mvc.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\System.Web.Optimization.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\System.Web.Razor.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\System.Web.WebPages.Deployment.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\System.Web.WebPages.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\System.Web.WebPages.Razor.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\WebGrease.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\System.Web.Helpers.xml
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\System.Web.Mvc.xml
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\System.Web.Optimization.xml
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\System.Web.Razor.xml
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\System.Web.WebPages.xml
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\System.Web.WebPages.Deployment.xml
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\System.Web.WebPages.Razor.xml
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Antlr3.Runtime.pdb
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Newtonsoft.Json.xml
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.ApplicationInsights.xml
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.AI.Web.xml
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\obj\Debug\ComputerAccessoriesStore.WebUI.csprojResolveAssemblyReference.cache
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\obj\Debug\ComputerAccessoriesStore.WebUI.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\obj\Debug\ComputerAccessoriesStore.WebUI.pdb
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Castle.Core.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\ComputerAccessoriesStore.Domain.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Moq.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Ninject.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\System.Runtime.CompilerServices.Unsafe.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\System.Threading.Tasks.Extensions.dll
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\ComputerAccessoriesStore.Domain.pdb
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Castle.Core.xml
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Moq.xml
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Ninject.xml
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\System.Runtime.CompilerServices.Unsafe.xml
-c:\users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\System.Threading.Tasks.Extensions.xml
-C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\EntityFramework.dll
-C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\ComputerAccessoriesStore.Domain.dll.config
-C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\EntityFramework.xml
-C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\EntityFramework.SqlServer.dll
-C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\EntityFramework.SqlServer.xml
-<<<<<<< HEAD
-C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.dll
-C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.Security.dll
-C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Owin.dll
-C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.xml
-C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.Security.xml
-C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\victor.siryk\documents\visual studio 2017\Projects\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
-=======
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\ApplicationInsights.config
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\csc.exe
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\roslyn\csc.exe.config
@@ -137,11 +40,17 @@ C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\b
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.AI.Web.dll
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Moq.dll
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Newtonsoft.Json.dll
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Ninject.dll
+C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Owin.dll
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\System.Threading.Tasks.Extensions.dll
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\System.Web.Helpers.dll
@@ -157,7 +66,12 @@ C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\b
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Castle.Core.xml
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\EntityFramework.xml
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Moq.xml
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Ninject.xml
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\System.Runtime.CompilerServices.Unsafe.xml
@@ -176,9 +90,7 @@ C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\b
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\bin\Microsoft.AI.Web.xml
-C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\obj\Debug\ComputerAccessoriesStore.WebUI.csprojAssemblyReference.cache
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\obj\Debug\ComputerAccessoriesStore.WebUI.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\obj\Debug\ComputerAccessoriesStore.WebUI.csproj.CopyComplete
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\obj\Debug\ComputerAccessoriesStore.WebUI.dll
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.WebUI\obj\Debug\ComputerAccessoriesStore.WebUI.pdb
->>>>>>> 43f5d1a18b91aef798062ef7f16a76ebf6fa0d06
