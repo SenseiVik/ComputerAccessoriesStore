@@ -21,3 +21,15 @@ C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\obj\Debug\ComputerAccessoriesStore.Domain.dll
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\obj\Debug\ComputerAccessoriesStore.Domain.pdb
 C:\Users\Admin\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\obj\Debug\ComputerAccessoriesStore.Domain.csprojAssemblyReference.cache
+C:\Users\sense\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\bin\Debug\ComputerAccessoriesStore.Domain.dll.config
+C:\Users\sense\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\bin\Debug\ComputerAccessoriesStore.Domain.dll
+C:\Users\sense\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\bin\Debug\ComputerAccessoriesStore.Domain.pdb
+C:\Users\sense\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\sense\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sense\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\sense\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sense\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\obj\Debug\ComputerAccessoriesStore.Domain.csprojAssemblyReference.cache
+C:\Users\sense\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\obj\Debug\ComputerAccessoriesStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sense\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\obj\Debug\ComputerAccessoriesStore.Domain.csproj.CopyComplete
+C:\Users\sense\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\obj\Debug\ComputerAccessoriesStore.Domain.dll
+C:\Users\sense\Desktop\ComputerAccessoriesStore\ComputerAccessoriesStore.Domain\obj\Debug\ComputerAccessoriesStore.Domain.pdb

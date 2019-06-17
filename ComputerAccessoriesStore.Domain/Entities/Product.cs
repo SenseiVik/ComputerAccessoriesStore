@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Web.Mvc;
 
 namespace ComputerAccessoriesStore.Domain.Entities
@@ -6,6 +7,7 @@ namespace ComputerAccessoriesStore.Domain.Entities
     public class Product
     {
         [HiddenInput(DisplayValue = false)]
+        [Column("Id")]
         public int ProductID { get; set; }
 
         [Required(ErrorMessage = "Please, enter a product name")]
